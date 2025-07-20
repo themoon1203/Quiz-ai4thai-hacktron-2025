@@ -117,7 +117,7 @@ curl http://localhost:5000/api1
 **หาก POST ผ่าน Postman ให้ทำการลบ curl ด้านหน้าออก
 
 ```
-curl -X POST http://localhost:5000/api1 -H "Content-Type: application/json" -d '{"message":"Hello API2 from User!"}'
+curl -X POST http://localhost:5000/api1 -H "Content-Type: application/json" -d '{\"message\": \"Hello API2 from User!\"}'
 ```
 
 ผลลัพธ์:
