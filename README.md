@@ -99,7 +99,7 @@ docker-compose up --build
 
 ### 📌 GET
 
-การ GET ค่าสามารถทำได้ทั้ง Browser Postman และ cmd
+การ GET ค่าสามารถทำได้ทั้ง Browser Postman และ cmd (command prompt)
 **หาก GET ผ่าน Postman หรือ Browser ให้ทำการลบ curl ด้านหน้าออก
 
 ```
@@ -113,7 +113,7 @@ curl http://localhost:5000/api1
 
 ### 📌 POST
 
-การ POST ค่าสามารถทำได้ทั้ง Postman และ cmd
+การ POST ค่าสามารถทำได้ทั้ง Postman และ cmd (command prompt)
 **หาก POST ผ่าน Postman ให้ทำการลบ curl ด้านหน้าออก
 
 ```
